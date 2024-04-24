@@ -1,0 +1,12 @@
+Flight 1
+Plane: Boeing 777
+
+Class 0
+
+|A==D|G==K|
+|A==D|G==K|
+|A==D|G==K|
+|A==D|G==K|
+|A==D|G==K|
+|A==D|G==K|
+|A=======K|

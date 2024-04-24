@@ -1,0 +1,58 @@
+ICS 4U Final Project – Airline Booking System
+
+Fly-by-Night Airlines is a small air transportation company. They own several planes
+and fly regular trips to many of the smaller airports in the province. All flights have ten
+seats and accommodate up to ten passengers per trip.
+You have been hired by Fly-By-Night Airlines to design a program that will help them
+keep track of their seat sales for each flight. You will need to:
+
+1. Develop a database to hold the seat information for each flight. This database will
+need to contain:
+ The seat number
+ Whether the seat has been reserved or is still available for sale
+ If the seat has been sold, the airline will need the contact information for the
+customer (e.g. name, address, phone number).
+
+2. Create a structured, menu-driven C++ program that will maintain the database.
+This should include modules for ticket sales, reservation cancellations, and retrieval of
+flight information. The program could be visual using a GUI or text-based using the
+console.
+
+3. When a customer requests a ticket for a given flight, your program will need to
+access the database for the flight and then:
+ Display the seating information for that flight.
+ The ticket attendant could then offer the customer their choice of available
+seating and input the customer’s seat choice.
+ The program will verify that the seat is available and then prompt the attendant to
+enter the customer’s contact information. The customers’ information should be
+ideally saved as an object.
+ The program must then update the database to reflect the ticket sale.
+
+4. If a customer calls to cancel his/her reservation, your program will allow the ticket
+attendant to find the customer’s seat assignment and delete the reservation, making the
+seat available for sale.
+
+5. In some cases, it will be necessary for the airline to cancel an entire flight. In this
+case, the program should allow the airline to print the contact information for all of the
+passengers who have reserved seats on this flight. This will allow the ticket attendant to
+call each customer and offer them a refund or new seat booking on a later flight.
+
+6. At flight time, your program should allow the ticket attendant to print out the
+passenger manifest, sorted in both seat and alphabetic order. The display should show
+the name and contact information for every passenger.
+
+Program requirements:
+1. All code must be clearly documented.
+2. All code must be neatly formatted.
+3. The program should be organized using Objects.
+4. The program should make use of all programming concepts covered in the
+course.
+5. The program should be as crash-proof as possible.
+6. You will also create a brief user guide to instruct the ticket attendant on how to
+use the software.
+Grading:
+In addition to the program, you will complete an interview with the teacher where you
+will both demonstrate the use of your program and be asked questions about your code.
+This will represent a significant portion of your mark for the project. In addition, the
+product itself will be considered, along with your implementation of course concepts, as
+well as the level of difficulty you attempted.
