@@ -34,5 +34,5 @@ void Plane::setFlightID(std::string flightID) {
     this->flightID = flightID;
 }
 void Plane::setTextFileDirectory(std::string textFileDirectory) {
-    this->textFileDirectory = textFileDirectory;ß
+    this->textFileDirectory = textFileDirectory;
 }
