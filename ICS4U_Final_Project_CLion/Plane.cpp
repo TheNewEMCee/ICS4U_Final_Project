@@ -19,7 +19,7 @@ Plane::Plane() {
     this->setTextFileDirectory(sts.str());
 }
 Plane::Plane(std::string flightID, std::string textFileDirectory) {
-    if (!this->isValidID()) {
+    if (this->isValidID()) {
         std::cout << "Plane Built" << std::endl;
     } else {
         std::cout << "Invalid ID. Plane not created" << std::endl;

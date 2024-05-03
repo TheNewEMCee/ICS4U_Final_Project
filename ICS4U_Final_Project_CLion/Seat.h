@@ -13,8 +13,8 @@ public:
     Seat(int x, int y, int floor, std::string classOfSeat);
     int setX(int x);
     int setY(int y);
-    int setFloor(int floor);
-    std::string setClassOfSeat(std::string classOfSeat);
+    int setFloor(int theFloor);
+    std::string setClassOfSeat(std::string classOfSeat2);
     int getX();
     int getY();
     int getFloor();

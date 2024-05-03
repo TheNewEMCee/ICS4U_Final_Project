@@ -1,28 +1,28 @@
 #include <iostream>
 #include "Seat.h"
-#include <iostream>
+#include <utility>
 
-int Seat::setX(int x) {
-    this->x = x;
+int Seat::setX(int theX) {
+    this->x = theX;
 }
-int Seat::setY(int y) {
-    this->y = y;
+int Seat::setY(int theY) {
+    this->y = theY;
 }
-int Seat::setFloor(int floor) {
-    this->floor = floor;
+int Seat::setFloor(int theFloor) {
+    this->floor = theFloor;
 }
-std::string Seat::setClassOfSeat(std::string classOfSeat) {
-
+std::string Seat::setClassOfSeat(std::string theClassOfSeat) {
+    this->classOfSeat = std::move(theClassOfSeat);
 }
 int Seat::getX() {
-
+    return this->x;
 }
 int Seat::getY() {
-
+    return this->y;
 }
 int Seat::getFloor() {
-
+    return this->floor;
 }
 std::string Seat::getClassOfSeat() {
-
+    return this->classOfSeat;
 }
