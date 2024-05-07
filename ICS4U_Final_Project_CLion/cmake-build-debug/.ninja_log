@@ -1,0 +1,19 @@
+# ninja log v5
+20	1602	7361880685007497	CMakeFiles/main.cpp.dir/Plane.cpp.obj	af5e9ba98adfd6c
+4	1027	7364473160670254	build.ninja	dac5464b1d51c291
+27	1377	7357622023991363	CMakeFiles/main.cpp.dir/Customer.cpp.obj	3d1a656449b72fe7
+10	947	7361882152516323	CMakeFiles/main.cpp.dir/main.cpp.obj	642bae7f60c070ad
+19	1627	7357622024304000	CMakeFiles/main.cpp.dir/Flight.cpp.obj	cf98276375498ab
+13	1669	7357622024616597	CMakeFiles/main.cpp.dir/Seat.cpp.obj	d3b9fdb4e4c18787
+10	412	7361883149727383	main.cpp.exe	2e29034b00f3ba2
+32	1626	7364474298565814	CMakeFiles/main.cpp.dir/Customer.cpp.obj	eaa450c37bcaed00
+102	1660	7364474298565814	CMakeFiles/main.cpp.dir/Flight.cpp.obj	5329e5440d06fcfe
+113	1686	7364474298722141	CMakeFiles/main.cpp.dir/Seat.cpp.obj	c583f73f61e521e0
+120	1766	7364474299978838	CMakeFiles/main.cpp.dir/main.cpp.obj	83a6d7b7ba7e1dd2
+96	1813	7364474300447711	CMakeFiles/main.cpp.dir/Plane.cpp.obj	2dbbed87d6bad19d
+1818	2668	7364474308908967	main.cpp.exe	2e29034b00f3ba2
+33	1602	7364486100446183	CMakeFiles/main.cpp.dir/Flight.cpp.obj	5329e5440d06fcfe
+110	1748	7364486101079523	CMakeFiles/main.cpp.dir/Plane.cpp.obj	2dbbed87d6bad19d
+126	1764	7364486101235800	CMakeFiles/main.cpp.dir/main.cpp.obj	83a6d7b7ba7e1dd2
+119	1779	7364486101235800	CMakeFiles/main.cpp.dir/Seat.cpp.obj	c583f73f61e521e0
+1787	2398	7364486108436395	main.cpp.exe	2e29034b00f3ba2
